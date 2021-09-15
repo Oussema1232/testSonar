@@ -15,7 +15,7 @@
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
     <sonar.login>admin</sonar.login>
-    <sonar.password>40dcd5fe221a0444ebef0cd0eba667ec10186b6f</sonar.password>
+    <sonar.password>oussema1.</sonar.password>
   </properties>
 
   <dependencies>
